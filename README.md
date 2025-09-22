@@ -1,6 +1,7 @@
 # DL-Disco - Named Entity Recognition (NER) - Multilingual
 
   This project provides a Named Entity Recognition (NER) model specifically designed for multilingual text analysis. It accurately identifies and classifies named entities such as persons, organizations, locations, dates, and other important entities across multiple languages. This project is ideal for developers, researchers, and organizations requiring multilingual text processing capabilities for information extraction, content analysis, document processing, and natural language understanding applications.
+  This is a multilingual NER. This covers 7 Indian languages :  Bengali, Hindi, Kannada, Malayalam, Marathi, Punjabi and Tamil and English.
    
 ## Download - Model
 
